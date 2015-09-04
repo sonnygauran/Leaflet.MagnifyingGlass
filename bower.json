@@ -3,7 +3,9 @@
   "version": "1.0.0-beta",
   "homepage": "https://github.com/sonnygauran/Leaflet.MagnifyingGlass",
   "authors": [
-    "Sonny Gauran <sonnygauran@gmail.com>"
+    "Sonny Gauran <sonnygauran@gmail.com>",
+    "Benjamin Becquet",
+    "Mathieu Peltier"
   ],
   "description": "This plugin allows you to add a \"magnifying glass\" effect to a Leaflet map, able to display a portion of the map in a different zoom (and actually display different content).",
   "main": [
